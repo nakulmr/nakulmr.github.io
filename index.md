@@ -7,4 +7,4 @@ I am a cybersecurity student passionate about Network Security and Ethical Hacki
 * **CTF Writeups:** Documenting my solutions for Capture The Flag challenges.
 
 ## Contact
-[Link to your LinkedIn]
+https://www.linkedin.com/in/nakulmraja/
